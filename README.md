@@ -1,2 +1,2 @@
 # Radar-and-Antenna
-This repo contains some radar codes process from raw data and antenna calculations
+Contain some radar codes, which process from raw datas, and radar antenna calculations
