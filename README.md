@@ -1,2 +1,2 @@
 # Radar-and-Antenna
-Contain some radar codes, which process from raw datas, and radar antenna calculations
+Contains some radar codes, which process from raw data, and radar antenna calculations
